@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Merienda:wght@300..900&display=swap');
+
+  margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #F4F1BB;
+}
+header, nav, main, footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    color: beige
+        
+}
+header{
+    background-color:darkorange;
+    height: 150px;
+    
+}
+nav{
+   background-color: forestgreen;
+    height: 80px;
+    
+}
+main{
+    background-color:azure
+}
+footer{
+    background-color:forestgreen;
+    text-align: center;
+}
+section{
+    width: 94%;
+    height: auto;
+    background-color: darkgoldenrod;
+    margin-top: -8px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 16px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    display: inline-block;
+    text-align: left;
+}
+table{
+    width:500px; 
+    border-collapse: collapse;
+    margin: 0 auto
+}
+table, table td,table th {
+    border: 3px solid #F4F1BB;
+    
+}
+table th{
+    background-color:forestgreen;
+        color:#F4F1BB;
+    height: 50px;
+}        
+table td{
+    background-color: darkgrey;
+    color:brown;
+    padding: 10px;
+} 
+img{
+    width: 170px;
+        height: auto;
+}
+#tabala_2, #tabla_2 td{ 
+    background-color: transparent;
+    border: none;
+}body nav ul {
+    text-align: left;
+
+}
+ul li a {
+    text-align: center;
+}
+ul li a {
+    text-align: center;
+}
+body nav ul li a {
+    text-decoration: none;
+    text-align: center;
+
+}
+body nav ul li a:link , body nav ul li a:visited{
+    color: #A9A9A9;
+    text-align: center;
+}
+body nav ul li a:hover {
+    color: #B8860B;
+    text-align: center;
+	
+}
+body nav ul {
+    text-align: center;
+    text-decoration: none;
+}
+ul li a {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 51px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 1px;
+}
+ul li a {
+    text-align: center;
+
+}
+body nav ul li a {
+    text-decoration: none;
+    text-align: center;
+
+}
+body nav ul li a:link , body nav ul li a:visited{
+    color: #A9A9A9;
+    text-align: center;
+    display: inline-block;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+body nav ul li a:hover {
+    color: #B8860B;
+    display: inline-block;
+    text-align: center;
+}
+#form1 {
+    width: 50%;
+    margin: 0 auto;
+}
+#form1 #email {
+}
+#form1 input[type=text] {
+    padding: 10px;
+    width: 100%;
+
+}
+#form1 #email {
+    padding: 5px;
+    width: 100%;
+}
+#form1 #mensaje {
+    width: 100%;
+    height: 55px;
+}
+#form1 #submit {
+    width: 27%;
+    margin: 20px auto;
+    height: 30px;
+    display: block;
+    background-color: #1F811F;
+    color: #A9A9A9;
+    font-weight: bold;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+#form1 label {
+    padding: 10px auto;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+@media screen{
+#img_contacto {
+    width: 10%;
+}
+
+}
+#tablaZebra {
+    background-color: transparent;
+
+
+}
+#tablazebra td {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: transparent;
+    color: #A9A9A9;
+}
+#tablazebra tbody tr:nth-child(even) {
+    background-color: #7A11E0;
+    color: #676659;
+}
+#tablazebra tbody tr:nth-child(odd)  {
+    background-color: #EA4DAE;
+
+}
+#tablazebra thead th {
+    background-color: #000000;
+}
+#TABLA_HOVER tbody td {
+    background-color: transparent;
+}
+#TABLA_HOVER tbody tr:hover {
+    background-color: #228B22;
+    width: 100%;
+    height: 70%;
+    color: #228B22;
+    text-decoration: line-through;
+    text-align: left;
+    margin-left: 27px;
+    margin-right: 15px;
+}
+
+
+#TABLA_HOVER {
+    padding-left: 101px;
+    margin-right: 18px;
+    margin-bottom: 67px;
+    margin-top: 46px;
+    margin-left: 294px;
+    padding-top: 0px;
+}
+.section_practica{
+	
+		width: 30%;
+height: 50px;
+			display:inline-block;
+  margin: 30px;
+				  }
+.main_center{
+	text-align: center;
+}
+h1{
+	font-family: "Merienda", cursive;
+	font-size: 72px;
+	body {
+		font-family: "Dosis", sans-serif;
+	}
+}
